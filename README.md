@@ -198,14 +198,16 @@ contact      : jayati.nilekar2@gmail.com
 
 ---
 
+
 ## 🔭 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayati0812&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayati0812&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Jayati0812&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jayati0812&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
+
 
 ## 🤝 Let's Work Together
 
